@@ -4,9 +4,20 @@
 #announce:
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&allow_insecure=0#2.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@fr.e0f.network:8388#3.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@s6eba9cb4.fastvps-server.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=fGB5LO3Ixtez-N-VOqhgmz4KjVtRo9ZUhQVASC7cozI&sid=a33cab0467dcb2aa&sni=s6eba9cb4.fastvps-server.com#4.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
-vless://ecfbc74b-aed1-4193-bcfb-1e6d7a6b90e1@sbl.mangshe.xyz:2055#5.%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@64.188.76.88:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@64.188.80.199:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@s6eba9cb4.fastvps-server.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=fGB5LO3Ixtez-N-VOqhgmz4KjVtRo9ZUhQVASC7cozI&sid=a33cab0467dcb2aa&sni=s6eba9cb4.fastvps-server.com#5.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://f1233103-f7a8-42f1-b003-26c6dd391229@srv163.towersflowerss.com:443?encryption=none&type=raw&headerType=none&security=none#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099#7.%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan
+vless://66036ae7-f4b4-4dd9-b72f-88b571c6ba26@pl1-node.vpnspacev.com:443?type=tcp&security=reality&fp=chrome&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=bc8ceae578236c&sni=yandex.ru#8.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg0034686rw.cybervena.com:50099#9.%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan
+vless://ecfbc74b-aed1-4193-bcfb-1e6d7a6b90e1@sbl.mangshe.xyz:2055?type=tcp#10.%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://07e326bb-801c-49fc-9005-d2a3e9673e89@sbl.mangshe.xyz:2055#11.%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://f1233103-f7a8-42f1-b003-26c6dd391229@srv163.towersflowerss.com:443#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://e5c22f63-e473-496a-beff-fdc5655008c1@tvhinet.lajichang.xyz:2096?security=tls&sni=tvhinet.lajichang.xyz&insecure=1&allowInsecure=1&type=tcp&headerType=none#13.%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan
+vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@64.188.76.251:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://ecfbc74b-aed1-4193-bcfb-1e6d7a6b90e1@sbl.mangshe.xyz:2055#15.%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://a6dd0cc9-eeb0-4226-9623-b3fc6e1b0b98@172.237.90.117:14573?type=ws&security=none&host=m.zoom.us&path=%2FFREE%2520By%2520Tharuwa%2520%25280767597317%2529#16.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
+trojan://8f3a2b1c9d4e5f6a7b8c9d0e1f2a3b4c@link.honghongai.top:8443?security=tls&sni=link.honghongai.top&type=tcp#17.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
