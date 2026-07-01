@@ -4,18 +4,8 @@
 #announce:
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#2.%20%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
-vless://56936a8b-471b-47ee-8087-2bb93f0495d2@213.219.212.105:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://ad584b51-0b6e-4fb8-973e-da25081c10c7@213.219.212.24:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#5.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#6.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://56936a8b-471b-47ee-8087-2bb93f0495d2@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKeDJIS0pLN2tpdGk4NmU4QW5RSWJY@46.224.2.35:47199#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#9.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#10.%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
-vless://ad584b51-0b6e-4fb8-973e-da25081c10c7@213.219.212.105:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#12.%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?encryption=none&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#14.%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#15.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://9b08bee0-2615-46c6-8939-54b575517a26@213.21.222.29.fwqfw783rg2dad.website:443?encryption=none&security=tls&sni=213.21.222.29.fwqfw783rg2dad.website&fp=ios&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fsequre%2Fws%3Fed%3D2560#1.%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim1.wiziii.xyz:2083?encryption=none&type=xhttp&security=tls&path=%2F&host=wiz3.jooje.lat&mode=auto&sni=wiz3.jooje.lat&fp=qq&insecure=0&allowInsecure=0#2.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://d312730d-e1f3-4fe4-a907-f9077ba62b5d@212.60.4.188:26146?fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&security=reality&sid=d4f2a3a536b962&sni=www.vk.ru&spx=%2FUQmrtcbSPy1IqFX&type=tcp#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jooje.lat&mode=auto&sni=liz11.jooje.lat&fp=chrome&insecure=0&allowInsecure=0#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://e4cd624c-18d6-415e-8cde-0a800e06ce31@94.139.251.7:4089?flow=xtls-rprx-vision&fp=firefox&pbk=efO4FU4XI20hptm8R_6awJ-UmyHI_5zNaBhQEyBBLVU&security=reality&sid=abcd1234&sni=ads.x5.ru&type=tcp#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
