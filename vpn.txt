@@ -4,16 +4,10 @@
 #announce:
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#1.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@cf.0sm.com:443?&security=tls&fp=chrome&sni=edt2.yfqh08811.ccwu.cc&type=ws&headerType=&host=edt2.yfqh08811.ccwu.cc&path=%2F#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://1443b7a1-7ba9-4ec9-b904-2e867367b5d7@odd-violet-5440.asdgrweeee13.workers.dev:443?type=ws&security=tls&encryption=none&path=%2Fsync&host=odd-violet-5440.asdgrweeee13.workers.dev&sni=odd-violet-5440.asdgrweeee13.workers.dev&fp=chrome&headerType=none#4.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://e258977b-e413-4718-a3af-02d75492c349@172.64.145.158:443?encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#5.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://c416332e-2bde-4806-ac02-8f021c6e8f68@www.visa.com.br:2087?host=bbc.zjxc.de5.net&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&security=tls&sni=bbc.zjxc.de5.net&type=ws#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?encryption=none&host=server3.pegibol940.workers.dev&path=%2FeyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%253D&security=tls&type=ws#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&security=reality&sid=70e24f75fa26f6c7&sni=www.twitch.tv&type=tcp#8.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443?encryption=none&fp=firefox&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#10.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#12.%20%F0%9F%87%AE%F0%9F%87%B3%20India
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#13.%20%F0%9F%87%AE%F0%9F%87%B3%20India
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+trojan://521314@wangcai.yunzhongzhuan.com:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram🇨🇳#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://4392b776-41a2-4300-b545-a3d2724b605b@45.93.201.21:443?encryption=none&type=xhttp&security=reality&host=cdn.tracker.yandex.net&path=%2Fstatic%2Fjs%2Fmain.js&mode=auto&extra=null&fp=qq&sni=cdn.tracker.yandex.net&pbk=SRHaGdtnkRYMKRlJPAIlk3gXKNH9lEo_qCzF5BOBdB4&sid=bc1aa344#5.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&fp=firefox&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://MiTiVPN@170.114.45.6:443?security=tls&type=ws&sni=nlandif-o-nhdl.MaQror.IR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NL-55&host=n-la-nbvjad.MaQror.IR#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
