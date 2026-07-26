@@ -4,4 +4,15 @@
 #announce:
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#1.%20%F0%9F%87%AE%F0%9F%87%B3%20India
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.157:443?type=ws&headerType=none&security=tls&encryption=none&sni=octopusss.net&fp=chrome&path=%2Fodiyfws&host=octopusss.net&insecure=0#3.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@31.58.182.250:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eu-central.cendora.ru&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&flow=xtls-rprx-vision#4.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#5.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#6.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl07.myxasecure.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl07.myxasecure.space&fp=firefox&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&flow=xtls-rprx-vision#7.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#8.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg==@31.76.80.205:8388#9.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.50:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#10.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.235:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#11.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.223:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#12.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
