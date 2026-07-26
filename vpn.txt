@@ -4,11 +4,4 @@
 #announce:
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://58f4e11d-45bb-4b7d-8b33-66bb2eefa97a@104.17.151.126:2096?encryption=none&type=ws&host=nova-river-cloud-1642.mehrshadamiri69.workers.dev&path=%2F&security=tls&fp=chrome&sni=nova-river-cloud-1642.mehrshadamiri69.workers.dev#1.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=/free/1.226.227.169:50001#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#3.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuYW1lIjoiPj5Ab25lY2xpY2t2cG5rZXlzOjpUVzo6VFciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MzUwMzQsInBzIjoiNC4gXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFRhaXdhbiIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#5.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
-vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.158.151:9893?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GVNhQWxHlpnqLnhlOeFpagU1QLVVHBepBQN0YcPjXVg&security=reality&sni=www.io.ozone.ru&spx=%2F&type=raw#6.%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.184.245:50099#7.%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#8.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#1.%20%F0%9F%87%AE%F0%9F%87%B3%20India
